@@ -1,0 +1,1 @@
+Coloque aqui o PresentMon (PresentMon*.exe) para habilitar a telemetria de FPS. Veja o README.
